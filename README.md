@@ -1,4 +1,4 @@
-# Week-10-473-
+
 This is the tenth  week of my Violet Python class
  This README provides detailed instructions on setting up the environment, using the script, and understanding its functionalities.
 LSB Data Hiding in True Color Images README
